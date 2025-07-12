@@ -1,0 +1,2 @@
+# seized
+Site seized template
